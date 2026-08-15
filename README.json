@@ -242,7 +242,7 @@
             "last_commit": "2026-08-11T14:32:56Z",
             "owner": "authlib",
             "repo": "authlib",
-            "stars": 5398
+            "stars": 5399
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2026-08-14T17:52:08Z",
             "owner": "celery",
             "repo": "celery",
-            "stars": 28787
+            "stars": 28784
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-05T12:51:06Z",
             "owner": "coleifer",
             "repo": "huey",
-            "stars": 6008
+            "stars": 6007
           }
         },
         {
@@ -465,7 +465,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T17:09:21Z",
+            "last_commit": "2026-08-15T00:08:23Z",
             "owner": "getsentry",
             "repo": "sentry-python",
             "stars": 2202
@@ -1011,10 +1011,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T18:52:33Z",
+            "last_commit": "2026-08-15T18:31:15Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46490
+            "stars": 46502
           }
         },
         {
@@ -1039,10 +1039,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:52:25Z",
+            "last_commit": "2026-08-15T14:52:25Z",
             "owner": "freedomofpress",
             "repo": "securedrop",
-            "stars": 3871
+            "stars": 3872
           }
         },
         {
@@ -1468,7 +1468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:51:21.789Z",
+    "last_updated": "2026-08-15T19:28:22.435Z",
     "original_repository": "humiaozuzu/awesome-flask",
     "original_repository_sha": "df6f650f176433d3296482a51b38356fb3626abb",
     "enhanced_repository": "enhansome/enhansome-flask",

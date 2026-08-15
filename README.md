@@ -64,14 +64,14 @@
 
 ## Authorization
 
-* [Authlib](https://github.com/lepture/authlib) ⭐ 5,398 | 🐛 140 | 🌐 Python | 📅 2026-08-11 - Authlib is an ambitious authentication library for OAuth 1, OAuth 2, OpenID clients, servers and more.
+* [Authlib](https://github.com/lepture/authlib) ⭐ 5,399 | 🐛 140 | 🌐 Python | 📅 2026-08-11 - Authlib is an ambitious authentication library for OAuth 1, OAuth 2, OpenID clients, servers and more.
 * [Authomatic](https://github.com/authomatic/authomatic) ⭐ 1,053 | 🐛 64 | 🌐 Python | 📅 2025-12-12 - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
 * [Flask-Dance](https://github.com/singingwolfboy/flask-dance) ⭐ 1,012 | 🐛 49 | 🌐 Python | 📅 2024-06-07 - OAuth consumer extension for Flask, shipped with pre-set support for Facebook, GitHub, Google, etc.
 * [Flask-Pundit](https://github.com/anurag90x/flask-pundit) ⭐ 53 | 🐛 3 | 🌐 Python | 📅 2023-05-01 - Extension based on Rails' [Pundit](https://github.com/varvet/pundit) ⭐ 8,520 | 🐛 15 | 🌐 Ruby | 📅 2026-08-02 gem that provides easy way to organize access control for your models
 
 ## Database
 
-* [Flask-SQLAlchemy](https://github.com/mitsuhiko/flask-sqlalchemy) ⭐ 4,311 | 🐛 39 | 🌐 Python | 📅 2026-05-18 - Adds SQLAlchemy support to Flask
+* [Flask-SQLAlchemy](https://github.com/mitsuhiko/flask-sqlalchemy) ⭐ 4,311 | 🐛 38 | 🌐 Python | 📅 2026-05-18 - Adds SQLAlchemy support to Flask
 * [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) ⭐ 831 | 🐛 45 | 🌐 Python | 📅 2024-01-18 - MongoEngine flask extension with WTF model forms support
 
 ## Database Migrations
@@ -89,7 +89,7 @@
 
 ## Data Validation
 
-* [Flask-WTF](https://github.com/lepture/flask-wtf) ⭐ 1,508 | 🐛 26 | 🌐 Python | 📅 2026-08-01 - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
+* [Flask-WTF](https://github.com/lepture/flask-wtf) ⭐ 1,508 | 🐛 27 | 🌐 Python | 📅 2026-08-01 - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
 
 ## Email
 
@@ -110,14 +110,14 @@
 
 ## Task Queue
 
-* [celery](https://github.com/celery/celery/) ⭐ 28,787 | 🐛 802 | 🌐 Python | 📅 2026-08-14 - Distributed Task Queue
-* [huey](https://github.com/coleifer/huey) ⭐ 6,008 | 🐛 0 | 🌐 Python | 📅 2026-08-05 - a little task queue for python
-* [Flask-Dramatiq](https://flask-dramatiq.rtfd.io/) - [dramatiq](https://github.com/Bogdanp/dramatiq) ⭐ 5,309 | 🐛 59 | 🌐 Python | 📅 2026-08-13 integration for Flask applications.
+* [celery](https://github.com/celery/celery/) ⭐ 28,784 | 🐛 804 | 🌐 Python | 📅 2026-08-14 - Distributed Task Queue
+* [huey](https://github.com/coleifer/huey) ⭐ 6,007 | 🐛 0 | 🌐 Python | 📅 2026-08-05 - a little task queue for python
+* [Flask-Dramatiq](https://flask-dramatiq.rtfd.io/) - [dramatiq](https://github.com/Bogdanp/dramatiq) ⭐ 5,309 | 🐛 60 | 🌐 Python | 📅 2026-08-13 integration for Flask applications.
 * [Flask-RQ](https://github.com/mattupstate/flask-rq) ⭐ 235 | 🐛 1 | 🌐 Python | 📅 2026-07-15 - RQ (Redis Queue) integration for Flask applications
 
 ## Exception tracking
 
-* [sentry-sdk](https://github.com/getsentry/sentry-python) ⭐ 2,202 | 🐛 439 | 🌐 Python | 📅 2026-08-14 - Python client for [Sentry](https://sentry.io/welcome/).
+* [sentry-sdk](https://github.com/getsentry/sentry-python) ⭐ 2,202 | 🐛 446 | 🌐 Python | 📅 2026-08-15 - Python client for [Sentry](https://sentry.io/welcome/).
 * [airbrake-python](https://github.com/airbrake/airbrake-python) ⭐ 52 | 🐛 14 | 🌐 Python | 📅 2022-09-12 - Python client for [Airbrake](https://airbrake.io/)
 
 ## Tracing
@@ -127,7 +127,7 @@
 
 ## APM
 
-* [elastic-apm](https://github.com/elastic/apm-agent-python) ⭐ 430 | 🐛 141 | 🌐 Python | 📅 2026-08-14 - Elastic APM agent for Python
+* [elastic-apm](https://github.com/elastic/apm-agent-python) ⭐ 430 | 🐛 141 | 🌐 Python | 📅 2026-08-15 - Elastic APM agent for Python
 
 ## Other SDK
 
@@ -148,7 +148,7 @@
 
 * [connexion](https://github.com/zalando/connexion) ⭐ 4,608 | 🐛 186 | 🌐 Python | 📅 2026-08-03 - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support.
 * [Flasgger](https://github.com/rochacbruno/flasgger) ⭐ 3,741 | 🐛 286 | 🌐 Python | 📅 2024-06-17 - Create API documentation for Flask views using Swagger 2.0 specs
-* [nplusone](https://github.com/jmcarp/nplusone#flask-sqlalchemy) ⭐ 1,068 | 🐛 23 | 🌐 Python | 📅 2022-11-25 - Auto-detect n+1 queries with Flask and SQLAlchemy
+* [nplusone](https://github.com/jmcarp/nplusone#flask-sqlalchemy) ⭐ 1,068 | 🐛 24 | 🌐 Python | 📅 2022-11-25 - Auto-detect n+1 queries with Flask and SQLAlchemy
 * [Flask-DebugToolbar](https://github.com/mgood/flask-debugtoolbar) ⭐ 978 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-03 - A port of the django debug toolbar to flask
 * [Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) ⭐ 827 | 🐛 74 | 🌐 Python | 📅 2026-06-29 - Automatically monitor the evolving performance of Flask/Python web services.
 * [flask\_profiler](https://github.com/muatik/flask-profiler) ⭐ 753 | 🐛 44 | 🌐 Python | 📅 2022-12-02 - endpoint analyzer/profiler for Flask
@@ -213,9 +213,9 @@
 
 ## Built with Flask
 
-* [airflow](https://github.com/apache/incubator-airflow) ⭐ 46,490 | 🐛 1,858 | 🌐 Python | 📅 2026-08-14 - Airflow is a system to programmatically author, schedule and monitor data pipelines.
+* [airflow](https://github.com/apache/incubator-airflow) ⭐ 46,502 | 🐛 1,857 | 🌐 Python | 📅 2026-08-15 - Airflow is a system to programmatically author, schedule and monitor data pipelines.
 * [security\_monkey](https://github.com/Netflix/security_monkey) ⚠️ Archived - monitors policy changes and alerts on insecure configurations in an AWS account.
-* [securedrop](https://github.com/freedomofpress/securedrop) ⭐ 3,871 | 🐛 459 | 🌐 Python | 📅 2026-08-14- an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+* [securedrop](https://github.com/freedomofpress/securedrop) ⭐ 3,872 | 🐛 459 | 🌐 Python | 📅 2026-08-15- an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 * [sync\_engine](https://github.com/nylas/sync-engine) ⚠️ Archived - IMAP/SMTP sync system with modern APIs
 * [timesketch](https://github.com/google/timesketch) ⭐ 3,391 | 🐛 217 | 🌐 Python | 📅 2026-08-09 - Collaborative forensics timeline analysis
 * [flaskbb](https://github.com/flaskbb/flaskbb) ⭐ 2,660 | 🐛 16 | 🌐 Python | 📅 2026-08-11 - A classic Forum Software in Python using Flask.
@@ -254,4 +254,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
