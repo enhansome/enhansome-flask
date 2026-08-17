@@ -5,22 +5,47 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Zappa",
-          "description": "Build and deploy server-less Flask applications on AWS Lambda and API Gateway",
+          "title": "Source Code",
+          "description": "Flask itself, hosted by Pallets.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2023-03-23T13:59:31Z",
-            "owner": "Miserlou",
-            "repo": "Zappa",
-            "stars": 11823
+            "last_commit": "2026-08-16T18:35:35Z",
+            "owner": "pallets",
+            "repo": "flask",
+            "stars": 72114
           }
         },
         {
           "node_type": "item",
+          "title": "Quart",
+          "description": "Official ASGI counterpart of Flask, with a compatible API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T14:43:56Z",
+            "owner": "pallets",
+            "repo": "quart",
+            "stars": 3658
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
           "title": "Flask-RESTful",
-          "description": "Simple framework for creating REST APIs",
+          "description": "Lightweight helpers for building REST APIs.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -34,7 +59,7 @@
         {
           "node_type": "item",
           "title": "Eve",
-          "description": "REST API framework powered by Flask, MongoDB and good intentions",
+          "description": "REST API framework powered by Flask and MongoDB.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -42,13 +67,13 @@
             "last_commit": "2026-03-24T09:19:21Z",
             "owner": "pyeve",
             "repo": "eve",
-            "stars": 6747
+            "stars": 6746
           }
         },
         {
           "node_type": "item",
           "title": "Connexion",
-          "description": "Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support",
+          "description": "Spec-first OpenAPI framework that can run on Flask.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -56,109 +81,103 @@
             "last_commit": "2026-08-03T17:05:24Z",
             "owner": "spec-first",
             "repo": "connexion",
-            "stars": 4608
+            "stars": 4609
           }
         },
         {
           "node_type": "item",
-          "title": "Flask-RestPlus",
-          "description": "syntaxic sugar, helpers and automatically generated Swagger documentation.",
+          "title": "Flasgger",
+          "description": "OpenAPI and Swagger UI for Flask views.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2023-03-22T17:28:05Z",
-            "owner": "noirbizarre",
-            "repo": "flask-restplus",
-            "stars": 2731
+            "last_commit": "2024-06-17T23:38:25Z",
+            "owner": "flasgger",
+            "repo": "flasgger",
+            "stars": 3741
           }
         },
         {
           "node_type": "item",
-          "title": "Flask-Restless",
-          "description": "A Flask extension for creating simple ReSTful APIs from SQLAlchemy models",
+          "title": "Flask-RESTX",
+          "description": "Community fork of Flask-RESTPlus with Swagger documentation.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2020-05-16T01:49:17Z",
-            "owner": "jfinkels",
-            "repo": "flask-restless",
-            "stars": 1004
+            "last_commit": "2026-04-14T15:43:23Z",
+            "owner": "python-restx",
+            "repo": "flask-restx",
+            "stars": 2235
           }
         },
         {
           "node_type": "item",
-          "title": "Flask-MongoRest",
-          "description": "Restful API framework wrapped around MongoEngine",
+          "title": "APIFlask",
+          "description": "Flask web API framework with marshmallow validation and OpenAPI generation.",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "language": "Python",
-            "last_commit": "2024-01-23T12:59:32Z",
-            "owner": "closeio",
-            "repo": "flask-mongorest",
-            "stars": 520
+            "last_commit": "2026-08-15T14:36:39Z",
+            "owner": "apiflask",
+            "repo": "apiflask",
+            "stars": 1131
           }
         },
         {
           "node_type": "item",
-          "title": "Flask-Potion",
-          "description": "RESTful API framework for Flask and SQLAlchemy",
+          "title": "flask-smorest",
+          "description": "Marshmallow-first REST framework with automatic OpenAPI.",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "language": "Python",
-            "last_commit": "2019-04-23T17:00:39Z",
-            "owner": "biosustain",
-            "repo": "potion",
-            "stars": 487
+            "last_commit": "2026-08-03T19:32:35Z",
+            "owner": "marshmallow-code",
+            "repo": "flask-smorest",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Rebar",
+          "description": "Flask, marshmallow, and OpenAPI combined for REST services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-26T18:35:19Z",
+            "owner": "plangrid",
+            "repo": "flask-rebar",
+            "stars": 235
           }
         }
       ],
-      "title": "Framework"
+      "title": "APIs"
     },
     {
       "description": "",
       "items": [
         {
           "node_type": "item",
-          "title": "Flask-Analytics",
-          "description": "Analytics snippets generator extension for the Flask framework",
+          "title": "Authlib",
+          "description": "OAuth 1, OAuth 2, and OpenID Connect clients and servers.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2016-10-12T18:57:38Z",
-            "owner": "citruspi",
-            "repo": "Flask-Analytics",
-            "stars": 82
+            "last_commit": "2026-08-11T14:32:56Z",
+            "owner": "authlib",
+            "repo": "authlib",
+            "stars": 5400
           }
         },
-        {
-          "node_type": "item",
-          "title": "Flask-Matomo",
-          "description": "Track requests to your Flask website with Matomo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-30T19:19:09Z",
-            "owner": "LucasHild",
-            "repo": "flask-matomo",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Analytics"
-    },
-    {
-      "description": "",
-      "items": [
         {
           "node_type": "item",
           "title": "Flask-Login",
-          "description": "Flask user session management",
+          "description": "Session-based user login management.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -171,22 +190,22 @@
         },
         {
           "node_type": "item",
-          "title": "Flask-Security",
-          "description": "Quick and simple security for Flask applications",
+          "title": "Flask-JWT-Extended",
+          "description": "JWT authentication with refresh tokens and fine-grained claims.",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "language": "Python",
-            "last_commit": "2024-07-30T19:33:09Z",
-            "owner": "pallets-eco",
-            "repo": "flask-security-3.0",
-            "stars": 1624
+            "last_commit": "2026-07-02T13:18:16Z",
+            "owner": "vimalloc",
+            "repo": "flask-jwt-extended",
+            "stars": 1581
           }
         },
         {
           "node_type": "item",
           "title": "Flask-HTTPAuth",
-          "description": "Simple extension that provides Basic and Digest HTTP authentication for Flask routes",
+          "description": "Basic, digest, and token authentication for routes.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,7 +219,7 @@
         {
           "node_type": "item",
           "title": "Flask-User",
-          "description": "Customizable user account management for Flask",
+          "description": "Customizable user registration, login, and account management.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -213,42 +232,8 @@
         },
         {
           "node_type": "item",
-          "title": "Flask-Praetorian",
-          "description": "Strong, Simple, and Precise security for Flask APIs (using jwt)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-19T01:56:17Z",
-            "owner": "dusktreader",
-            "repo": "flask-praetorian",
-            "stars": 350
-          }
-        }
-      ],
-      "title": "Authentication"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Authlib",
-          "description": "Authlib is an ambitious authentication library for OAuth 1, OAuth 2, OpenID clients, servers and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T14:32:56Z",
-            "owner": "authlib",
-            "repo": "authlib",
-            "stars": 5400
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Authomatic",
-          "description": "Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)",
+          "description": "Framework-agnostic OAuth and OpenID client.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -262,7 +247,7 @@
         {
           "node_type": "item",
           "title": "Flask-Dance",
-          "description": "OAuth consumer extension for Flask, shipped with pre-set support for Facebook, GitHub, Google, etc.",
+          "description": "OAuth consumer with built-in providers such as GitHub and Google.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,8 +260,50 @@
         },
         {
           "node_type": "item",
+          "title": "Flask-Security",
+          "description": "Account management, authentication, and authorization. Continues Flask-Security-Too.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-16T00:51:46Z",
+            "owner": "pallets-eco",
+            "repo": "flask-security",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Session",
+          "description": "Server-side sessions for Flask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-14T20:23:32Z",
+            "owner": "pallets-eco",
+            "repo": "flask-session",
+            "stars": 534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Praetorian",
+          "description": "JWT authentication and role-based authorization for APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-19T01:56:17Z",
+            "owner": "dusktreader",
+            "repo": "flask-praetorian",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Flask-Pundit",
-          "description": "Extension based on Rails' Pundit gem that provides easy way to organize access control for your models",
+          "description": "Policy-based authorization inspired by Rails Pundit.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -288,7 +315,7 @@
           }
         }
       ],
-      "title": "Authorization"
+      "title": "Auth"
     },
     {
       "description": "",
@@ -296,7 +323,7 @@
         {
           "node_type": "item",
           "title": "Flask-SQLAlchemy",
-          "description": "Adds SQLAlchemy support to Flask",
+          "description": "SQLAlchemy integration for Flask.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -304,13 +331,27 @@
             "last_commit": "2026-05-18T23:27:00Z",
             "owner": "pallets-eco",
             "repo": "flask-sqlalchemy",
-            "stars": 4311
+            "stars": 4310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Migrate",
+          "description": "Database migrations for Flask-SQLAlchemy via Alembic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-14T19:42:31Z",
+            "owner": "miguelgrinberg",
+            "repo": "Flask-Migrate",
+            "stars": 2404
           }
         },
         {
           "node_type": "item",
           "title": "Flask-MongoEngine",
-          "description": "MongoEngine flask extension with WTF model forms support",
+          "description": "MongoEngine integration with WTForms support.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,152 +361,64 @@
             "repo": "flask-mongoengine",
             "stars": 831
           }
-        }
-      ],
-      "title": "Database"
-    },
-    {
-      "description": "",
-      "items": [
+        },
         {
           "node_type": "item",
-          "title": "Flask-Caching",
-          "description": "Adds easy cache support to Flask",
+          "title": "Advanced Alchemy",
+          "description": "SQLAlchemy companion with repositories, Alembic helpers, and a first-party Flask extension.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T19:41:27Z",
+            "last_commit": "2026-07-31T04:43:48Z",
+            "owner": "litestar-org",
+            "repo": "advanced-alchemy",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-PyMongo",
+          "description": "PyMongo integration for MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:23:48Z",
+            "owner": "mongodb-labs",
+            "repo": "flask-pymongo",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Alembic",
+          "description": "Alembic migrations wired to a Flask-SQLAlchemy database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-17T01:10:51Z",
             "owner": "pallets-eco",
-            "repo": "flask-caching",
-            "stars": 934
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flask-heroku-cacheify",
-          "description": "Automatic Flask cache configuration on Heroku",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-09-26T08:40:53Z",
-            "owner": "rdegges",
-            "repo": "flask-heroku-cacheify",
-            "stars": 41
+            "repo": "flask-alembic",
+            "stars": 47
           }
         }
       ],
-      "title": "Cache"
+      "title": "Databases"
     },
     {
       "description": "",
       "items": [
         {
           "node_type": "item",
-          "title": "SQLAlchemy-Searchable",
-          "description": "Full-text searching for Flask-SQLAlchemy (Postgres only)",
+          "title": "Sentry",
+          "description": "Error tracking SDK with a Flask integration.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T07:20:13Z",
-            "owner": "falcony-io",
-            "repo": "sqlalchemy-searchable",
-            "stars": 276
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flask_msearch",
-          "description": "Full text search for flask with whoosh",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-16T05:07:23Z",
-            "owner": "honmaple",
-            "repo": "flask-msearch",
-            "stars": 225
-          }
-        }
-      ],
-      "title": "Full-text searching"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "celery",
-          "description": "Distributed Task Queue",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T16:44:40Z",
-            "owner": "celery",
-            "repo": "celery",
-            "stars": 28788
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "huey",
-          "description": "a little task queue for python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T13:54:43Z",
-            "owner": "coleifer",
-            "repo": "huey",
-            "stars": 6004
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flask-Dramatiq",
-          "description": "dramatiq integration for Flask applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T06:31:26Z",
-            "owner": "Bogdanp",
-            "repo": "dramatiq",
-            "stars": 5310
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flask-RQ",
-          "description": "RQ (Redis Queue) integration for Flask applications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-15T21:08:51Z",
-            "owner": "pallets-eco",
-            "repo": "flask-rq",
-            "stars": 235
-          }
-        }
-      ],
-      "title": "Task Queue"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "sentry-sdk",
-          "description": "Python client for Sentry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T00:08:23Z",
+            "last_commit": "2026-08-17T00:38:47Z",
             "owner": "getsentry",
             "repo": "sentry-python",
             "stars": 2202
@@ -473,228 +426,22 @@
         },
         {
           "node_type": "item",
-          "title": "airbrake-python",
-          "description": "Python client for Airbrake",
+          "title": "OpenTelemetry",
+          "description": "Tracing and metrics instrumentation, including Flask.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2022-09-12T11:33:45Z",
-            "owner": "airbrake",
-            "repo": "airbrake-python",
-            "stars": 52
-          }
-        }
-      ],
-      "title": "Exception tracking"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Flask-OpenTracing",
-          "description": "Distributed tracing with OpenTracing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-22T15:19:00Z",
-            "owner": "opentracing-contrib",
-            "repo": "python-flask",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flask-zipkin",
-          "description": "Distributed tracing with Zipkin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-06T18:32:03Z",
-            "owner": "qiajigou",
-            "repo": "flask-zipkin",
-            "stars": 40
-          }
-        }
-      ],
-      "title": "Tracing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Flask-GoogleMaps",
-          "description": "Build and embed google maps in our Flask templates",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-30T21:50:31Z",
-            "owner": "flask-extensions",
-            "repo": "Flask-GoogleMaps",
-            "stars": 653
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flask-Gravatar",
-          "description": "Small and simple gravatar usage in Flask",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-01T14:41:09Z",
-            "owner": "zzzsochi",
-            "repo": "Flask-Gravatar",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flask-Azure-Storage",
-          "description": "Flask extension that provides integration with Azure Storage",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-04-13T14:10:51Z",
-            "owner": "alejoar",
-            "repo": "Flask-Azure-Storage",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flask-Pusher",
-          "description": "Pusher integration for Flask",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-19T10:44:11Z",
-            "owner": "iurisilvio",
-            "repo": "Flask-Pusher",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Other SDK"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Flask-CORS",
-          "description": "A Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-09T01:52:38Z",
-            "owner": "corydolphin",
-            "repo": "flask-cors",
-            "stars": 931
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flask-assets",
-          "description": "Flask webassets integration",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-15T13:55:26Z",
-            "owner": "miracle2k",
-            "repo": "flask-assets",
-            "stars": 460
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flask-s3",
-          "description": "Seamlessly serve your static assets of your Flask app from Amazon S3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-26T19:08:06Z",
-            "owner": "e-dard",
-            "repo": "flask-s3",
-            "stars": 200
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flask-HTMLmin",
-          "description": "Flask html minifier",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-05T18:29:25Z",
-            "owner": "hamidfzm",
-            "repo": "Flask-HTMLmin",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flask-SSLify",
-          "description": "Force SSL on your Flask app",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-15T20:19:59Z",
-            "owner": "kennethreitz",
-            "repo": "flask-sslify",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "Frontend"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "connexion",
-          "description": "Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T17:05:24Z",
-            "owner": "spec-first",
-            "repo": "connexion",
-            "stars": 4608
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flasgger",
-          "description": "Create API documentation for Flask views using Swagger 2.0 specs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-17T23:38:25Z",
-            "owner": "flasgger",
-            "repo": "flasgger",
-            "stars": 3741
+            "last_commit": "2026-08-17T08:42:52Z",
+            "owner": "open-telemetry",
+            "repo": "opentelemetry-python-contrib",
+            "stars": 1087
           }
         },
         {
           "node_type": "item",
           "title": "nplusone",
-          "description": "Auto-detect n+1 queries with Flask and SQLAlchemy",
+          "description": "Detects N+1 queries when using Flask-SQLAlchemy.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -708,7 +455,7 @@
         {
           "node_type": "item",
           "title": "Flask-DebugToolbar",
-          "description": "A port of the django debug toolbar to flask",
+          "description": "In-browser debug toolbar, ported from Django.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -721,8 +468,22 @@
         },
         {
           "node_type": "item",
+          "title": "Mixer",
+          "description": "Object factory for SQLAlchemy and Django models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-08T09:29:07Z",
+            "owner": "klen",
+            "repo": "mixer",
+            "stars": 955
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Flask-MonitoringDashboard",
-          "description": "Automatically monitor the evolving performance of Flask/Python web services.",
+          "description": "Automatic performance monitoring for Flask services.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -735,36 +496,8 @@
         },
         {
           "node_type": "item",
-          "title": "flask_profiler",
-          "description": "endpoint analyzer/profiler for Flask",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-02T02:48:05Z",
-            "owner": "muatik",
-            "repo": "flask-profiler",
-            "stars": 753
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flask-apispec",
-          "description": "simple self-documenting APIs with flask",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-04T14:03:06Z",
-            "owner": "jmcarp",
-            "repo": "flask-apispec",
-            "stars": 653
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Flask-Testing",
-          "description": "Unittest extensions for Flask",
+          "description": "Unittest helpers for Flask applications.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -778,7 +511,7 @@
         {
           "node_type": "item",
           "title": "pytest-flask",
-          "description": "A set of pytest fixtures to test Flask applications",
+          "description": "Pytest fixtures for Flask applications.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -791,84 +524,76 @@
         },
         {
           "node_type": "item",
-          "title": "flask2postman",
-          "description": "Generate a Postman collection from your Flask application",
+          "title": "Elastic APM",
+          "description": "Application performance monitoring for Flask.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2022-09-15T20:25:29Z",
-            "owner": "numberly",
-            "repo": "flask2postman",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flask-debug-toolbar-mongo",
-          "description": "MongoDB panel for the Flask Debug Toolbar",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-02-04T16:10:15Z",
-            "owner": "cenkalti",
-            "repo": "flask-debug-toolbar-mongo",
-            "stars": 4
+            "last_commit": "2026-08-17T12:37:50Z",
+            "owner": "elastic",
+            "repo": "apm-agent-python",
+            "stars": 430
           }
         }
       ],
-      "title": "Development (Debugging/Testing/Documentation)"
+      "title": "Developer Tools"
     },
     {
       "description": "",
       "items": [
         {
           "node_type": "item",
-          "title": "Flask-SocketIO",
-          "description": "Socket.IO integration for Flask applications",
+          "title": "Flask-Mail",
+          "description": "SMTP email sending for Flask.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-30T21:58:52Z",
-            "owner": "miguelgrinberg",
-            "repo": "Flask-SocketIO",
-            "stars": 5508
+            "last_commit": "2026-06-10T18:14:24Z",
+            "owner": "pallets-eco",
+            "repo": "flask-mail",
+            "stars": 642
           }
         },
         {
           "node_type": "item",
-          "title": "Flask-graphql",
-          "description": "Adds GraphQL support to your Flask application",
+          "title": "Flask-Mailman",
+          "description": "Port of Django's mail system to Flask.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2023-01-03T16:53:50Z",
-            "owner": "graphql-python",
-            "repo": "flask-graphql",
-            "stars": 1338
+            "last_commit": "2024-09-04T00:14:04Z",
+            "owner": "waynerv",
+            "repo": "flask-mailman",
+            "stars": 128
           }
-        },
+        }
+      ],
+      "title": "Email"
+    },
+    {
+      "description": "",
+      "items": [
         {
           "node_type": "item",
-          "title": "Mixer",
-          "description": "Mixer is application to generate instances of Django or SQLAlchemy models",
+          "title": "Flask-WTF",
+          "description": "WTForms integration with CSRF, file upload, and reCAPTCHA.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2024-03-08T09:29:07Z",
-            "owner": "klen",
-            "repo": "mixer",
-            "stars": 955
+            "last_commit": "2026-08-01T20:02:57Z",
+            "owner": "pallets-eco",
+            "repo": "flask-wtf",
+            "stars": 1508
           }
         },
         {
           "node_type": "item",
-          "title": "flask-marshmallow",
-          "description": "Flask + marshmallow for beautiful APIs",
+          "title": "Flask-Marshmallow",
+          "description": "Marshmallow integration for serialization and validation.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -881,22 +606,90 @@
         },
         {
           "node_type": "item",
-          "title": "Flask-Moment",
-          "description": "Formatting of dates and times in Flask templates using moment.js",
+          "title": "Flask-Pydantic",
+          "description": "Pydantic validation for Flask views.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-14T19:43:09Z",
-            "owner": "miguelgrinberg",
-            "repo": "Flask-Moment",
-            "stars": 380
+            "last_commit": "2025-12-22T02:58:18Z",
+            "owner": "pallets-eco",
+            "repo": "flask-pydantic",
+            "stars": 434
+          }
+        }
+      ],
+      "title": "Forms and Validation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQLAlchemy-Searchable",
+          "description": "Full-text search for SQLAlchemy models on PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T07:20:13Z",
+            "owner": "falcony-io",
+            "repo": "sqlalchemy-searchable",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flask-msearch",
+          "description": "Full-text search for Flask, with Whoosh support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-16T05:07:23Z",
+            "owner": "honmaple",
+            "repo": "flask-msearch",
+            "stars": 225
+          }
+        }
+      ],
+      "title": "Full-text Search"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flask-Limiter",
+          "description": "Rate limiting for Flask routes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-10T23:07:49Z",
+            "owner": "alisaifee",
+            "repo": "flask-limiter",
+            "stars": 1204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-CORS",
+          "description": "Cross-Origin Resource Sharing (CORS) support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T01:52:38Z",
+            "owner": "corydolphin",
+            "repo": "flask-cors",
+            "stars": 931
           }
         },
         {
           "node_type": "item",
           "title": "Flask-Bcrypt",
-          "description": "Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application",
+          "description": "Bcrypt password hashing.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -909,8 +702,202 @@
         },
         {
           "node_type": "item",
+          "title": "Flask-SeaSurf",
+          "description": "CSRF protection for Flask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-04T15:46:45Z",
+            "owner": "maxcountryman",
+            "repo": "flask-seasurf",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Talisman",
+          "description": "HTTPS enforcement and security headers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-17T09:20:40Z",
+            "owner": "wntrblm",
+            "repo": "flask-talisman",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Celery",
+          "description": "Distributed task queue commonly used with Flask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-17T16:56:19Z",
+            "owner": "celery",
+            "repo": "celery",
+            "stars": 28788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Huey",
+          "description": "Small Redis-backed task queue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-16T13:54:43Z",
+            "owner": "coleifer",
+            "repo": "huey",
+            "stars": 6005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dramatiq",
+          "description": "Fast alternative to Celery, with Flask-Dramatiq available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:31:26Z",
+            "owner": "Bogdanp",
+            "repo": "dramatiq",
+            "stars": 5309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-RQ",
+          "description": "Redis Queue (RQ) integration for Flask and Quart.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T21:08:51Z",
+            "owner": "pallets-eco",
+            "repo": "flask-rq",
+            "stars": 235
+          }
+        }
+      ],
+      "title": "Task Queues"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flask-SocketIO",
+          "description": "Socket.IO integration for Flask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T21:58:52Z",
+            "owner": "miguelgrinberg",
+            "repo": "Flask-SocketIO",
+            "stars": 5508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flask-graphql",
+          "description": "GraphQL support for Flask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-03T16:53:50Z",
+            "owner": "graphql-python",
+            "repo": "flask-graphql",
+            "stars": 1338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frozen-Flask",
+          "description": "Freezes a Flask app into a static site.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-12T22:19:50Z",
+            "owner": "Frozen-Flask",
+            "repo": "Frozen-Flask",
+            "stars": 798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-GoogleMaps",
+          "description": "Embed Google Maps in Flask templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-30T21:50:31Z",
+            "owner": "flask-extensions",
+            "repo": "Flask-GoogleMaps",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Assets",
+          "description": "Webassets integration for bundling and minifying static files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-15T13:55:26Z",
+            "owner": "miracle2k",
+            "repo": "flask-assets",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Babel",
+          "description": "Internationalization and localization via Babel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-07T06:38:21Z",
+            "owner": "python-babel",
+            "repo": "flask-babel",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Moment",
+          "description": "Moment.js helpers for dates in Jinja templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-14T19:43:09Z",
+            "owner": "miguelgrinberg",
+            "repo": "Flask-Moment",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
           "title": "flask-jsonrpc",
-          "description": "A basic JSON-RPC implementation for your Flask-powered sites",
+          "description": "JSON-RPC support for Flask.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -924,7 +911,7 @@
         {
           "node_type": "item",
           "title": "Flask-Paginate",
-          "description": "Pagination support for Flask",
+          "description": "Pagination helpers for Flask.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -937,30 +924,30 @@
         },
         {
           "node_type": "item",
-          "title": "Flask-FeatureFlags",
-          "description": "A Flask extension that enables or disables features based on configuration",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2018-06-26T09:13:18Z",
-            "owner": "rachelsanders",
-            "repo": "Flask-FeatureFlags",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flask-Reggie",
-          "description": "Regex Converter for Flask URL Routes",
+          "title": "flask-s3",
+          "description": "Serve Flask static assets from Amazon S3.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2013-07-08T02:03:07Z",
-            "owner": "rhyselsmore",
-            "repo": "flask-reggie",
-            "stars": 49
+            "last_commit": "2023-08-26T19:08:06Z",
+            "owner": "e-dard",
+            "repo": "flask-s3",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-HTMLmin",
+          "description": "HTML minification for Flask responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-05T18:29:25Z",
+            "owner": "hamidfzm",
+            "repo": "Flask-HTMLmin",
+            "stars": 103
           }
         }
       ],
@@ -968,11 +955,16 @@
     },
     {
       "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
       "items": [
         {
           "node_type": "item",
-          "title": "Discover Flask - Full Stack Web Development with Flask",
-          "description": null,
+          "title": "Discover Flask",
+          "description": "Full-stack Flask series from Real Python.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -985,8 +977,8 @@
         },
         {
           "node_type": "item",
-          "title": "Flaskr - Intro to Flask, Test Driven Development, and jQuery",
-          "description": null,
+          "title": "Flaskr TDD",
+          "description": "Introduction to Flask, test-driven development, and JavaScript.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -994,7 +986,7 @@
             "last_commit": "2026-04-13T21:01:11Z",
             "owner": "mjhea0",
             "repo": "flaskr-tdd",
-            "stars": 2342
+            "stars": 2343
           }
         }
       ],
@@ -1002,393 +994,8 @@
     },
     {
       "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "airflow",
-          "description": "Airflow is a system to programmatically author, schedule and monitor data pipelines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T10:03:11Z",
-            "owner": "apache",
-            "repo": "airflow",
-            "stars": 46508
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "security_monkey",
-          "description": "monitors policy changes and alerts on insecure configurations in an AWS account.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-02-11T02:32:12Z",
-            "owner": "Netflix",
-            "repo": "security_monkey",
-            "stars": 4371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "securedrop",
-          "description": "an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T14:52:25Z",
-            "owner": "freedomofpress",
-            "repo": "securedrop",
-            "stars": 3872
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sync_engine",
-          "description": "IMAP/SMTP sync system with modern APIs",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-06-25T18:21:11Z",
-            "owner": "nylas",
-            "repo": "sync-engine",
-            "stars": 3498
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "timesketch",
-          "description": "Collaborative forensics timeline analysis",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T10:08:31Z",
-            "owner": "google",
-            "repo": "timesketch",
-            "stars": 3391
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flaskbb",
-          "description": "A classic Forum Software in Python using Flask.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T21:24:07Z",
-            "owner": "flaskbb",
-            "repo": "flaskbb",
-            "stars": 2660
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quokka CMS",
-          "description": "CMS made with Flask and MongoDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-11-19T21:30:03Z",
-            "owner": "quokkaproject",
-            "repo": "quokka",
-            "stars": 2224
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "indico",
-          "description": "a general-purpose event management web-based solution. It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T13:51:18Z",
-            "owner": "indico",
-            "repo": "indico",
-            "stars": 2099
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "overholt",
-          "description": "Example Flask application illustrating common practices",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2020-03-28T03:18:47Z",
-            "owner": "mattupstate",
-            "repo": "overholt",
-            "stars": 1595
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "June",
-          "description": "python-china.org",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-09-15T20:20:41Z",
-            "owner": "pythoncn",
-            "repo": "june",
-            "stars": 1086
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Frozen-Flask",
-          "description": "Freezes a Flask application into a set of static files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-12T22:19:50Z",
-            "owner": "Frozen-Flask",
-            "repo": "Frozen-Flask",
-            "stars": 798
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "changes",
-          "description": "A dashboard for your code. A build system.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2016-11-05T18:50:57Z",
-            "owner": "dropbox",
-            "repo": "changes",
-            "stars": 749
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "thepast.me",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2015-07-14T02:10:27Z",
-            "owner": "laiwei",
-            "repo": "thepast",
-            "stars": 748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pypress",
-          "description": "flask team blog",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-03-28T03:18:54Z",
-            "owner": "laoqiu",
-            "repo": "pypress",
-            "stars": 547
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Skylines",
-          "description": "Live tracking, flight database and competition framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T19:38:32Z",
-            "owner": "skylines-project",
-            "repo": "skylines",
-            "stars": 407
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "redispapa",
-          "description": "another redis monitor by using flask, angular, socket.io",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-16T21:52:14Z",
-            "owner": "no13bus",
-            "repo": "redispapa",
-            "stars": 394
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chat",
-          "description": "a live chat built with python (flask + gevent + apscheduler) + redis",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-15T21:01:32Z",
-            "owner": "limboy",
-            "repo": "chat",
-            "stars": 326
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[PythonBuddy] (https://github.com/ethanchewy/PythonBuddy",
-          "description": ") - Online Python Editor With Live Syntax Checking and Execution",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-20T19:44:36Z",
-            "owner": "ethanchewy",
-            "repo": "PythonBuddy",
-            "stars": 282
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flaskblog",
-          "description": "a simple blog system based on flask",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2017-04-18T01:10:38Z",
-            "owner": "defshine",
-            "repo": "flaskblog",
-            "stars": 179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zerqu",
-          "description": "ZERQU is a content-focused API-based platform. eg: Python-China",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-03-28T03:14:05Z",
-            "owner": "lepture",
-            "repo": "zerqu",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cleanblog",
-          "description": "a clean blog system based on flask and mongoengine",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-12-10T15:28:09Z",
-            "owner": "defshine",
-            "repo": "cleanblog",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mcflyin",
-          "description": "A small timeseries transformation API built on Flask and Pandas",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-16T08:18:17Z",
-            "owner": "wrobstory",
-            "repo": "mcflyin",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "thenewsmeme.com",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2010-11-20T00:27:18Z",
-            "owner": "danjac",
-            "repo": "newsmeme",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GuitarFan",
-          "description": "guitar tab",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-03-28T03:09:44Z",
-            "owner": "lowrain",
-            "repo": "GuitarFan",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cleansweep",
-          "description": "Volunteer & Campaign Management System",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-03-28T03:31:49Z",
-            "owner": "AamAadmiParty",
-            "repo": "cleansweep",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "motiky",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2013-06-26T11:09:22Z",
-            "owner": "notedit",
-            "repo": "motiky",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "missing",
-          "description": "a list service called missing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2013-01-26T10:00:40Z",
-            "owner": "notedit",
-            "repo": "missing",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chatapp",
-          "description": "Flask and Angular.js Chat Application using Socket.io",
-          "children": []
-        }
-      ],
-      "title": "Built with Flask"
+      "items": [],
+      "title": "Projects"
     },
     {
       "description": "",
@@ -1396,7 +1003,7 @@
         {
           "node_type": "item",
           "title": "Flask-AppBuilder",
-          "description": "Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more",
+          "description": "Rapid app builder with security, auto CRUD, and charts.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1410,7 +1017,7 @@
         {
           "node_type": "item",
           "title": "cookiecutter-flask",
-          "description": null,
+          "description": "Cookiecutter template with Bootstrap, Webpack, and authentication.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1423,8 +1030,22 @@
         },
         {
           "node_type": "item",
+          "title": "uwsgi-nginx-flask-docker",
+          "description": "Docker image with uWSGI, Nginx, and Flask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:20:20Z",
+            "owner": "tiangolo",
+            "repo": "uwsgi-nginx-flask-docker",
+            "stars": 3006
+          }
+        },
+        {
+          "node_type": "item",
           "title": "fbone",
-          "description": null,
+          "description": "Classic Flask skeleton with a structured application layout.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1438,7 +1059,7 @@
         {
           "node_type": "item",
           "title": "Flask-Foundation",
-          "description": null,
+          "description": "Best-practice starter application.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1448,29 +1069,166 @@
             "repo": "Flask-Foundation",
             "stars": 1277
           }
-        },
+        }
+      ],
+      "title": "Boilerplates"
+    },
+    {
+      "description": "",
+      "items": [
         {
           "node_type": "item",
-          "title": "flask-rest-template",
-          "description": null,
+          "title": "Apache Superset",
+          "description": "Data exploration and visualization platform.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2022-11-16T23:06:43Z",
-            "owner": "alexandre-old",
-            "repo": "flask-rest-template",
-            "stars": 110
+            "last_commit": "2026-08-17T18:31:39Z",
+            "owner": "apache",
+            "repo": "superset",
+            "stars": 74288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Airflow",
+          "description": "Platform to author, schedule, and monitor workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-17T19:10:15Z",
+            "owner": "apache",
+            "repo": "airflow",
+            "stars": 46514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redash",
+          "description": "Query and visualize data from many sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:48:54Z",
+            "owner": "getredash",
+            "repo": "redash",
+            "stars": 28750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleLogin",
+          "description": "Email alias service that protects personal inboxes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-17T09:58:47Z",
+            "owner": "simple-login",
+            "repo": "app",
+            "stars": 6921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SecureDrop",
+          "description": "Whistleblower submission system for newsrooms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-17T14:52:24Z",
+            "owner": "freedomofpress",
+            "repo": "securedrop",
+            "stars": 3872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timesketch",
+          "description": "Collaborative forensic timeline analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T10:08:31Z",
+            "owner": "google",
+            "repo": "timesketch",
+            "stars": 3391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlaskBB",
+          "description": "Classic forum software built with Flask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-17T18:45:55Z",
+            "owner": "flaskbb",
+            "repo": "flaskbb",
+            "stars": 2660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Indico",
+          "description": "Event management system developed at CERN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-17T12:37:43Z",
+            "owner": "indico",
+            "repo": "indico",
+            "stars": 2099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyLines",
+          "description": "Live tracking and flight database for gliding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-17T03:07:58Z",
+            "owner": "skylines-project",
+            "repo": "skylines",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PythonBuddy",
+          "description": "Online Python editor with live syntax checking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T19:44:36Z",
+            "owner": "ethanchewy",
+            "repo": "PythonBuddy",
+            "stars": 282
           }
         }
       ],
-      "title": "Boilerplate"
+      "title": "Open Source Projects"
+    },
+    {
+      "description": "Suggestions are welcome. Please read CONTRIBUTING.md first. Historical and unmaintained entries live in archived.md.",
+      "items": [],
+      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:28:20.854Z",
+    "last_updated": "2026-08-17T19:35:18.818Z",
     "original_repository": "humiaozuzu/awesome-flask",
-    "original_repository_sha": "df6f650f176433d3296482a51b38356fb3626abb",
+    "original_repository_sha": "029b42863f0976e15e486c09e0d12e2b252147d6",
     "enhanced_repository": "enhansome/enhansome-flask",
     "enhanced_repository_description": null,
     "title": "Awesome Flask with stars"
