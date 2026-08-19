@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T18:35:35Z",
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72136
+            "stars": 72137
           }
         },
         {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-03T17:05:24Z",
                 "owner": "spec-first",
                 "repo": "connexion",
-                "stars": 4609
+                "stars": 4611
               }
             },
             {
@@ -180,7 +180,7 @@
                 "last_commit": "2026-08-11T14:32:56Z",
                 "owner": "authlib",
                 "repo": "authlib",
-                "stars": 5400
+                "stars": 5401
               }
             },
             {
@@ -409,7 +409,7 @@
                 "archived": false,
                 "id": 3052083,
                 "language": "Python",
-                "last_commit": "2026-08-12T13:23:48Z",
+                "last_commit": "2026-08-19T13:25:31Z",
                 "owner": "mongodb-labs",
                 "repo": "flask-pymongo",
                 "stars": 720
@@ -461,7 +461,7 @@
                 "archived": false,
                 "id": 220524743,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:38:48Z",
+                "last_commit": "2026-08-19T18:45:32Z",
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-python-contrib",
                 "stars": 1087
@@ -799,7 +799,7 @@
                 "last_commit": "2026-08-18T15:56:43Z",
                 "owner": "celery",
                 "repo": "celery",
-                "stars": 28794
+                "stars": 28798
               }
             },
             {
@@ -1166,10 +1166,10 @@
                 "archived": false,
                 "id": 39464018,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:03:15Z",
+                "last_commit": "2026-08-19T18:44:55Z",
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74311
+                "stars": 74313
               }
             },
             {
@@ -1181,10 +1181,10 @@
                 "archived": false,
                 "id": 33884891,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:26:14Z",
+                "last_commit": "2026-08-19T16:44:46Z",
                 "owner": "apache",
                 "repo": "airflow",
-                "stars": 46535
+                "stars": 46538
               }
             },
             {
@@ -1199,7 +1199,7 @@
                 "last_commit": "2026-08-18T16:14:11Z",
                 "owner": "getredash",
                 "repo": "redash",
-                "stars": 28756
+                "stars": 28757
               }
             },
             {
@@ -1214,7 +1214,7 @@
                 "last_commit": "2026-08-17T09:58:47Z",
                 "owner": "simple-login",
                 "repo": "app",
-                "stars": 6929
+                "stars": 6932
               }
             },
             {
@@ -1226,7 +1226,7 @@
                 "archived": false,
                 "id": 3156820,
                 "language": "Python",
-                "last_commit": "2026-08-18T14:52:24Z",
+                "last_commit": "2026-08-19T14:52:24Z",
                 "owner": "freedomofpress",
                 "repo": "securedrop",
                 "stars": 3874
@@ -1271,7 +1271,7 @@
                 "archived": false,
                 "id": 2113067,
                 "language": "Python",
-                "last_commit": "2026-08-19T10:02:16Z",
+                "last_commit": "2026-08-19T14:52:22Z",
                 "owner": "indico",
                 "repo": "indico",
                 "stars": 2099
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:28:45.243Z",
+    "last_updated": "2026-08-19T19:33:16.489Z",
     "original_repository": "humiaozuzu/awesome-flask",
     "original_repository_id": 17537748,
     "original_repository_sha": "029b42863f0976e15e486c09e0d12e2b252147d6",
