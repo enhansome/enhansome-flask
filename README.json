@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T18:35:35Z",
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72137
+            "stars": 72142
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 110288200,
             "language": "Python",
-            "last_commit": "2026-08-14T14:43:56Z",
+            "last_commit": "2026-08-19T19:52:39Z",
             "owner": "pallets",
             "repo": "quart",
             "stars": 3658
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 68146968,
                 "language": "Python",
-                "last_commit": "2026-07-02T13:18:16Z",
+                "last_commit": "2026-08-20T13:15:09Z",
                 "owner": "vimalloc",
                 "repo": "flask-jwt-extended",
                 "stars": 1581
@@ -282,7 +282,7 @@
                 "archived": false,
                 "id": 56553990,
                 "language": "Python",
-                "last_commit": "2026-08-16T00:51:46Z",
+                "last_commit": "2026-08-20T17:27:28Z",
                 "owner": "pallets-eco",
                 "repo": "flask-security",
                 "stars": 698
@@ -446,7 +446,7 @@
                 "archived": false,
                 "id": 137814779,
                 "language": "Python",
-                "last_commit": "2026-08-18T22:07:28Z",
+                "last_commit": "2026-08-20T07:11:20Z",
                 "owner": "getsentry",
                 "repo": "sentry-python",
                 "stars": 2202
@@ -461,10 +461,10 @@
                 "archived": false,
                 "id": 220524743,
                 "language": "Python",
-                "last_commit": "2026-08-19T18:45:32Z",
+                "last_commit": "2026-08-20T18:37:04Z",
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-python-contrib",
-                "stars": 1087
+                "stars": 1088
               }
             },
             {
@@ -796,10 +796,10 @@
                 "archived": false,
                 "id": 184460,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:56:43Z",
+                "last_commit": "2026-08-20T16:55:48Z",
                 "owner": "celery",
                 "repo": "celery",
-                "stars": 28798
+                "stars": 28801
               }
             },
             {
@@ -814,7 +814,7 @@
                 "last_commit": "2026-08-16T13:54:43Z",
                 "owner": "coleifer",
                 "repo": "huey",
-                "stars": 6004
+                "stars": 6005
               }
             },
             {
@@ -1166,10 +1166,10 @@
                 "archived": false,
                 "id": 39464018,
                 "language": "Python",
-                "last_commit": "2026-08-19T18:44:55Z",
+                "last_commit": "2026-08-20T18:48:08Z",
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74313
+                "stars": 74323
               }
             },
             {
@@ -1181,10 +1181,10 @@
                 "archived": false,
                 "id": 33884891,
                 "language": "Python",
-                "last_commit": "2026-08-19T16:44:46Z",
+                "last_commit": "2026-08-20T18:34:21Z",
                 "owner": "apache",
                 "repo": "airflow",
-                "stars": 46538
+                "stars": 46559
               }
             },
             {
@@ -1199,7 +1199,7 @@
                 "last_commit": "2026-08-18T16:14:11Z",
                 "owner": "getredash",
                 "repo": "redash",
-                "stars": 28757
+                "stars": 28759
               }
             },
             {
@@ -1214,7 +1214,7 @@
                 "last_commit": "2026-08-17T09:58:47Z",
                 "owner": "simple-login",
                 "repo": "app",
-                "stars": 6932
+                "stars": 6936
               }
             },
             {
@@ -1226,7 +1226,7 @@
                 "archived": false,
                 "id": 3156820,
                 "language": "Python",
-                "last_commit": "2026-08-19T14:52:24Z",
+                "last_commit": "2026-08-20T14:52:24Z",
                 "owner": "freedomofpress",
                 "repo": "securedrop",
                 "stars": 3874
@@ -1244,7 +1244,7 @@
                 "last_commit": "2026-08-18T15:04:22Z",
                 "owner": "google",
                 "repo": "timesketch",
-                "stars": 3391
+                "stars": 3390
               }
             },
             {
@@ -1271,7 +1271,7 @@
                 "archived": false,
                 "id": 2113067,
                 "language": "Python",
-                "last_commit": "2026-08-19T14:52:22Z",
+                "last_commit": "2026-08-20T12:18:10Z",
                 "owner": "indico",
                 "repo": "indico",
                 "stars": 2099
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:33:16.489Z",
+    "last_updated": "2026-08-20T19:38:14.961Z",
     "original_repository": "humiaozuzu/awesome-flask",
     "original_repository_id": 17537748,
     "original_repository_sha": "029b42863f0976e15e486c09e0d12e2b252147d6",
