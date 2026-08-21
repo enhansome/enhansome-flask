@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T18:35:35Z",
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72142
+            "stars": 72132
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T19:52:39Z",
             "owner": "pallets",
             "repo": "quart",
-            "stars": 3658
+            "stars": 3657
           }
         }
       ],
@@ -98,7 +98,7 @@
                 "last_commit": "2024-06-17T23:38:25Z",
                 "owner": "flasgger",
                 "repo": "flasgger",
-                "stars": 3742
+                "stars": 3743
               }
             },
             {
@@ -397,7 +397,7 @@
                 "last_commit": "2026-08-17T23:54:26Z",
                 "owner": "litestar-org",
                 "repo": "advanced-alchemy",
-                "stars": 795
+                "stars": 794
               }
             },
             {
@@ -446,10 +446,10 @@
                 "archived": false,
                 "id": 137814779,
                 "language": "Python",
-                "last_commit": "2026-08-20T07:11:20Z",
+                "last_commit": "2026-08-21T01:48:20Z",
                 "owner": "getsentry",
                 "repo": "sentry-python",
-                "stars": 2202
+                "stars": 2203
               }
             },
             {
@@ -461,10 +461,10 @@
                 "archived": false,
                 "id": 220524743,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:37:04Z",
+                "last_commit": "2026-08-21T15:01:48Z",
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-python-contrib",
-                "stars": 1088
+                "stars": 1089
               }
             },
             {
@@ -509,7 +509,7 @@
                 "last_commit": "2024-03-08T09:29:07Z",
                 "owner": "klen",
                 "repo": "mixer",
-                "stars": 955
+                "stars": 954
               }
             },
             {
@@ -799,7 +799,7 @@
                 "last_commit": "2026-08-20T16:55:48Z",
                 "owner": "celery",
                 "repo": "celery",
-                "stars": 28801
+                "stars": 28808
               }
             },
             {
@@ -814,7 +814,7 @@
                 "last_commit": "2026-08-16T13:54:43Z",
                 "owner": "coleifer",
                 "repo": "huey",
-                "stars": 6005
+                "stars": 6007
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-13T06:31:26Z",
                 "owner": "Bogdanp",
                 "repo": "dramatiq",
-                "stars": 5309
+                "stars": 5308
               }
             },
             {
@@ -896,7 +896,7 @@
                 "last_commit": "2024-11-12T22:19:50Z",
                 "owner": "Frozen-Flask",
                 "repo": "Frozen-Flask",
-                "stars": 798
+                "stars": 797
               }
             },
             {
@@ -1166,10 +1166,10 @@
                 "archived": false,
                 "id": 39464018,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:48:08Z",
+                "last_commit": "2026-08-21T19:31:34Z",
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74323
+                "stars": 74358
               }
             },
             {
@@ -1181,10 +1181,10 @@
                 "archived": false,
                 "id": 33884891,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:34:21Z",
+                "last_commit": "2026-08-21T18:59:58Z",
                 "owner": "apache",
                 "repo": "airflow",
-                "stars": 46559
+                "stars": 46572
               }
             },
             {
@@ -1199,7 +1199,7 @@
                 "last_commit": "2026-08-18T16:14:11Z",
                 "owner": "getredash",
                 "repo": "redash",
-                "stars": 28759
+                "stars": 28762
               }
             },
             {
@@ -1214,7 +1214,7 @@
                 "last_commit": "2026-08-17T09:58:47Z",
                 "owner": "simple-login",
                 "repo": "app",
-                "stars": 6936
+                "stars": 6937
               }
             },
             {
@@ -1226,7 +1226,7 @@
                 "archived": false,
                 "id": 3156820,
                 "language": "Python",
-                "last_commit": "2026-08-20T14:52:24Z",
+                "last_commit": "2026-08-21T14:52:26Z",
                 "owner": "freedomofpress",
                 "repo": "securedrop",
                 "stars": 3874
@@ -1271,7 +1271,7 @@
                 "archived": false,
                 "id": 2113067,
                 "language": "Python",
-                "last_commit": "2026-08-20T12:18:10Z",
+                "last_commit": "2026-08-21T16:01:47Z",
                 "owner": "indico",
                 "repo": "indico",
                 "stars": 2099
@@ -1286,7 +1286,7 @@
                 "archived": false,
                 "id": 3056468,
                 "language": "Python",
-                "last_commit": "2026-08-17T03:07:58Z",
+                "last_commit": "2026-08-21T17:48:47Z",
                 "owner": "skylines-project",
                 "repo": "skylines",
                 "stars": 407
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:38:14.961Z",
+    "last_updated": "2026-08-21T19:32:09.160Z",
     "original_repository": "humiaozuzu/awesome-flask",
     "original_repository_id": 17537748,
     "original_repository_sha": "029b42863f0976e15e486c09e0d12e2b252147d6",
