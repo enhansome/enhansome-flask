@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T18:35:35Z",
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72143
+            "stars": 72147
           }
         },
         {
@@ -39,6 +39,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flask-Admin",
+              "description": "Extensible admin interface for managing application data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3758878,
+                "language": "Python",
+                "last_commit": "2026-08-16T16:53:42Z",
+                "owner": "pallets-eco",
+                "repo": "flask-admin",
+                "stars": 6071
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Admin"
+        },
         {
           "children": [
             {
@@ -68,7 +90,7 @@
                 "last_commit": "2026-03-24T09:19:21Z",
                 "owner": "pyeve",
                 "repo": "eve",
-                "stars": 6746
+                "stars": 6747
               }
             },
             {
@@ -180,7 +202,7 @@
                 "last_commit": "2026-08-11T14:32:56Z",
                 "owner": "authlib",
                 "repo": "authlib",
-                "stars": 5402
+                "stars": 5403
               }
             },
             {
@@ -342,6 +364,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Flask-Caching",
+              "description": "Caching support with multiple backends.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62584910,
+                "language": "Python",
+                "last_commit": "2026-08-24T09:25:08Z",
+                "owner": "pallets-eco",
+                "repo": "flask-caching",
+                "stars": 935
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cache"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Flask-SQLAlchemy",
               "description": "SQLAlchemy integration for Flask.",
               "children": [],
@@ -397,7 +441,7 @@
                 "last_commit": "2026-08-17T23:54:26Z",
                 "owner": "litestar-org",
                 "repo": "advanced-alchemy",
-                "stars": 794
+                "stars": 795
               }
             },
             {
@@ -446,7 +490,7 @@
                 "archived": false,
                 "id": 137814779,
                 "language": "Python",
-                "last_commit": "2026-08-23T01:46:33Z",
+                "last_commit": "2026-08-24T13:36:36Z",
                 "owner": "getsentry",
                 "repo": "sentry-python",
                 "stars": 2203
@@ -566,7 +610,7 @@
                 "archived": false,
                 "id": 97101009,
                 "language": "Python",
-                "last_commit": "2026-08-19T06:06:24Z",
+                "last_commit": "2026-08-23T22:05:02Z",
                 "owner": "elastic",
                 "repo": "apm-agent-python",
                 "stars": 430
@@ -799,7 +843,7 @@
                 "last_commit": "2026-08-22T14:29:20Z",
                 "owner": "celery",
                 "repo": "celery",
-                "stars": 28814
+                "stars": 28817
               }
             },
             {
@@ -814,7 +858,7 @@
                 "last_commit": "2026-08-16T13:54:43Z",
                 "owner": "coleifer",
                 "repo": "huey",
-                "stars": 6008
+                "stars": 6011
               }
             },
             {
@@ -1166,10 +1210,10 @@
                 "archived": false,
                 "id": 39464018,
                 "language": "Python",
-                "last_commit": "2026-08-23T19:27:43Z",
+                "last_commit": "2026-08-24T13:34:05Z",
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74428
+                "stars": 74445
               }
             },
             {
@@ -1181,10 +1225,10 @@
                 "archived": false,
                 "id": 33884891,
                 "language": "Python",
-                "last_commit": "2026-08-23T10:58:29Z",
+                "last_commit": "2026-08-24T13:36:59Z",
                 "owner": "apache",
                 "repo": "airflow",
-                "stars": 46587
+                "stars": 46596
               }
             },
             {
@@ -1214,7 +1258,7 @@
                 "last_commit": "2026-08-17T09:58:47Z",
                 "owner": "simple-login",
                 "repo": "app",
-                "stars": 6944
+                "stars": 6945
               }
             },
             {
@@ -1229,7 +1273,7 @@
                 "last_commit": "2026-08-23T14:52:28Z",
                 "owner": "freedomofpress",
                 "repo": "securedrop",
-                "stars": 3875
+                "stars": 3877
               }
             },
             {
@@ -1241,10 +1285,10 @@
                 "archived": false,
                 "id": 21009909,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:04:22Z",
+                "last_commit": "2026-08-24T13:04:19Z",
                 "owner": "google",
                 "repo": "timesketch",
-                "stars": 3392
+                "stars": 3393
               }
             },
             {
@@ -1271,10 +1315,10 @@
                 "archived": false,
                 "id": 2113067,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:01:47Z",
+                "last_commit": "2026-08-24T12:36:19Z",
                 "owner": "indico",
                 "repo": "indico",
-                "stars": 2099
+                "stars": 2100
               }
             },
             {
@@ -1286,7 +1330,7 @@
                 "archived": false,
                 "id": 3056468,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:48:47Z",
+                "last_commit": "2026-08-24T01:54:51Z",
                 "owner": "skylines-project",
                 "repo": "skylines",
                 "stars": 407
@@ -1317,7 +1361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:28:50.967Z",
+    "last_updated": "2026-08-24T13:52:03.468Z",
     "original_repository": "humiaozuzu/awesome-flask",
     "original_repository_id": 17537748,
     "original_repository_sha": "029b42863f0976e15e486c09e0d12e2b252147d6",
