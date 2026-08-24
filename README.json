@@ -202,7 +202,7 @@
                 "last_commit": "2026-08-11T14:32:56Z",
                 "owner": "authlib",
                 "repo": "authlib",
-                "stars": 5403
+                "stars": 5404
               }
             },
             {
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 62584910,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:25:08Z",
+                "last_commit": "2026-08-24T18:51:29Z",
                 "owner": "pallets-eco",
                 "repo": "flask-caching",
                 "stars": 935
@@ -490,7 +490,7 @@
                 "archived": false,
                 "id": 137814779,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:36:36Z",
+                "last_commit": "2026-08-24T17:15:37Z",
                 "owner": "getsentry",
                 "repo": "sentry-python",
                 "stars": 2203
@@ -505,7 +505,7 @@
                 "archived": false,
                 "id": 220524743,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:01:48Z",
+                "last_commit": "2026-08-24T17:00:11Z",
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-python-contrib",
                 "stars": 1089
@@ -610,7 +610,7 @@
                 "archived": false,
                 "id": 97101009,
                 "language": "Python",
-                "last_commit": "2026-08-23T22:05:02Z",
+                "last_commit": "2026-08-24T17:33:56Z",
                 "owner": "elastic",
                 "repo": "apm-agent-python",
                 "stars": 430
@@ -702,7 +702,7 @@
                 "last_commit": "2025-12-22T02:58:18Z",
                 "owner": "pallets-eco",
                 "repo": "flask-pydantic",
-                "stars": 434
+                "stars": 435
               }
             }
           ],
@@ -843,7 +843,7 @@
                 "last_commit": "2026-08-22T14:29:20Z",
                 "owner": "celery",
                 "repo": "celery",
-                "stars": 28817
+                "stars": 28818
               }
             },
             {
@@ -1210,10 +1210,10 @@
                 "archived": false,
                 "id": 39464018,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:34:05Z",
+                "last_commit": "2026-08-24T19:31:52Z",
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74445
+                "stars": 74446
               }
             },
             {
@@ -1225,10 +1225,10 @@
                 "archived": false,
                 "id": 33884891,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:36:59Z",
+                "last_commit": "2026-08-24T18:29:17Z",
                 "owner": "apache",
                 "repo": "airflow",
-                "stars": 46596
+                "stars": 46598
               }
             },
             {
@@ -1255,10 +1255,10 @@
                 "archived": false,
                 "id": 228877522,
                 "language": "Python",
-                "last_commit": "2026-08-17T09:58:47Z",
+                "last_commit": "2026-08-24T14:44:40Z",
                 "owner": "simple-login",
                 "repo": "app",
-                "stars": 6945
+                "stars": 6947
               }
             },
             {
@@ -1270,7 +1270,7 @@
                 "archived": false,
                 "id": 3156820,
                 "language": "Python",
-                "last_commit": "2026-08-23T14:52:28Z",
+                "last_commit": "2026-08-24T14:54:50Z",
                 "owner": "freedomofpress",
                 "repo": "securedrop",
                 "stars": 3877
@@ -1361,7 +1361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:52:03.468Z",
+    "last_updated": "2026-08-24T19:37:21.696Z",
     "original_repository": "humiaozuzu/awesome-flask",
     "original_repository_id": 17537748,
     "original_repository_sha": "029b42863f0976e15e486c09e0d12e2b252147d6",
