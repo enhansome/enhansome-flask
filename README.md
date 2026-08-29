@@ -39,7 +39,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 
 ## Official Resources
 
-* [Source Code](https://github.com/pallets/flask) ⭐ 72,144 | 🐛 3 | 🌐 Python | 📅 2026-08-16 - Flask itself, hosted by Pallets.
+* [Source Code](https://github.com/pallets/flask) ⭐ 72,143 | 🐛 3 | 🌐 Python | 📅 2026-08-16 - Flask itself, hosted by Pallets.
 * [Quart](https://github.com/pallets/quart) ⭐ 3,658 | 🐛 27 | 🌐 Python | 📅 2026-08-25 - Official ASGI counterpart of Flask, with a compatible API.
 * [Flask](https://flask.palletsprojects.com/) - Official documentation for current and past releases.
 * [Flaskr Tutorial](https://flask.palletsprojects.com/tutorial/) - Official tutorial that builds a small blog.
@@ -128,7 +128,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 ### Task Queues
 
 * [Celery](https://github.com/celery/celery) ⭐ 28,836 | 🐛 756 | 🌐 Python | 📅 2026-08-27 - Distributed task queue commonly used with Flask.
-* [Huey](https://github.com/coleifer/huey) ⭐ 6,018 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - Small Redis-backed task queue.
+* [Huey](https://github.com/coleifer/huey) ⭐ 6,019 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - Small Redis-backed task queue.
 * [Dramatiq](https://github.com/Bogdanp/dramatiq) ⭐ 5,310 | 🐛 63 | 🌐 Python | 📅 2026-08-13 - Fast alternative to Celery, with [Flask-Dramatiq](https://flask-dramatiq.readthedocs.io/) available.
 * [Flask-RQ](https://github.com/pallets-eco/flask-rq) ⭐ 235 | 🐛 1 | 🌐 Python | 📅 2026-07-15 - Redis Queue (RQ) integration for Flask and Quart.
 
@@ -188,8 +188,8 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 
 ### Open Source Projects
 
-* [Apache Superset](https://github.com/apache/superset) ⭐ 74,517 | 🐛 606 | 🌐 Python | 📅 2026-08-29 - Data exploration and visualization platform.
-* [Apache Airflow](https://github.com/apache/airflow) ⭐ 46,631 | 🐛 1,980 | 🌐 Python | 📅 2026-08-28 - Platform to author, schedule, and monitor workflows.
+* [Apache Superset](https://github.com/apache/superset) ⭐ 74,520 | 🐛 611 | 🌐 Python | 📅 2026-08-29 - Data exploration and visualization platform.
+* [Apache Airflow](https://github.com/apache/airflow) ⭐ 46,630 | 🐛 1,982 | 🌐 Python | 📅 2026-08-29 - Platform to author, schedule, and monitor workflows.
 * [Redash](https://github.com/getredash/redash) ⭐ 28,766 | 🐛 802 | 🌐 Python | 📅 2026-08-18 - Query and visualize data from many sources.
 * [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,953 | 🐛 256 | 🌐 Python | 📅 2026-08-25 - Email alias service that protects personal inboxes.
 * [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,878 | 🐛 462 | 🌐 Python | 📅 2026-08-28 - Whistleblower submission system for newsrooms.
