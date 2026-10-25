@@ -39,7 +39,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 
 ## Official Resources
 
-* [Source Code](https://github.com/pallets/flask) ⭐ 75,029 | 🐛 4 | 🌐 Python | 📅 2026-10-07 - Flask itself, hosted by Pallets.
+* [Source Code](https://github.com/pallets/flask) ⭐ 75,083 | 🐛 4 | 🌐 Python | 📅 2026-10-07 - Flask itself, hosted by Pallets.
 * [Quart](https://github.com/pallets/quart) ⭐ 3,678 | 🐛 26 | 🌐 Python | 📅 2026-09-12 - Official ASGI counterpart of Flask, with a compatible API.
 * [Flask](https://flask.palletsprojects.com/) - Official documentation for current and past releases.
 * [Flaskr Tutorial](https://flask.palletsprojects.com/tutorial/) - Official tutorial that builds a small blog.
@@ -49,14 +49,14 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 
 ### Admin
 
-* [Flask-Admin](https://github.com/pallets-eco/flask-admin) ⭐ 6,070 | 🐛 136 | 🌐 Python | 📅 2026-10-24 - Extensible admin interface for managing application data.
+* [Flask-Admin](https://github.com/pallets-eco/flask-admin) ⭐ 6,072 | 🐛 135 | 🌐 Python | 📅 2026-10-25 - Extensible admin interface for managing application data.
 
 ### APIs
 
-* [Flask-RESTful](https://github.com/flask-restful/flask-restful) ⭐ 6,906 | 🐛 144 | 🌐 Python | 📅 2024-07-19 - Lightweight helpers for building REST APIs.
-* [Eve](https://github.com/pyeve/eve) ⭐ 6,748 | 🐛 30 | 🌐 Python | 📅 2026-10-21 - REST API framework powered by Flask and MongoDB.
+* [Flask-RESTful](https://github.com/flask-restful/flask-restful) ⭐ 6,907 | 🐛 144 | 🌐 Python | 📅 2024-07-19 - Lightweight helpers for building REST APIs.
+* [Eve](https://github.com/pyeve/eve) ⭐ 6,749 | 🐛 30 | 🌐 Python | 📅 2026-10-21 - REST API framework powered by Flask and MongoDB.
 * [Connexion](https://github.com/spec-first/connexion) ⭐ 4,612 | 🐛 195 | 🌐 Python | 📅 2026-10-20 - Spec-first OpenAPI framework that can run on Flask.
-* [Flasgger](https://github.com/flasgger/flasgger) ⭐ 3,743 | 🐛 286 | 🌐 Python | 📅 2024-06-17 - OpenAPI and Swagger UI for Flask views.
+* [Flasgger](https://github.com/flasgger/flasgger) ⭐ 3,744 | 🐛 286 | 🌐 Python | 📅 2024-06-17 - OpenAPI and Swagger UI for Flask views.
 * [Flask-RESTX](https://github.com/python-restx/flask-restx) ⭐ 2,231 | 🐛 322 | 🌐 Python | 📅 2026-04-14 - Community fork of Flask-RESTPlus with Swagger documentation.
 * [APIFlask](https://github.com/apiflask/apiflask) ⭐ 1,139 | 🐛 39 | 🌐 Python | 📅 2026-10-18 - Flask web API framework with marshmallow validation and OpenAPI generation.
 * [flask-smorest](https://github.com/marshmallow-code/flask-smorest) ⭐ 717 | 🐛 59 | 🌐 Python | 📅 2026-10-13 - Marshmallow-first REST framework with automatic OpenAPI.
@@ -64,8 +64,8 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 
 ### Auth
 
-* [Authlib](https://github.com/authlib/authlib) ⭐ 5,442 | 🐛 143 | 🌐 Python | 📅 2026-10-23 - OAuth 1, OAuth 2, and OpenID Connect clients and servers.
-* [Flask-Login](https://github.com/maxcountryman/flask-login) ⭐ 3,679 | 🐛 18 | 🌐 Python | 📅 2026-10-23 - Session-based user login management.
+* [Authlib](https://github.com/authlib/authlib) ⭐ 5,443 | 🐛 144 | 🌐 Python | 📅 2026-10-23 - OAuth 1, OAuth 2, and OpenID Connect clients and servers.
+* [Flask-Login](https://github.com/maxcountryman/flask-login) ⭐ 3,679 | 🐛 18 | 🌐 Python | 📅 2026-10-24 - Session-based user login management.
 * [Flask-JWT-Extended](https://github.com/vimalloc/flask-jwt-extended) ⭐ 1,579 | 🐛 20 | 🌐 Python | 📅 2026-10-05 - JWT authentication with refresh tokens and fine-grained claims.
 * [Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth) ⭐ 1,290 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Basic, digest, and token authentication for routes.
 * [Flask-User](https://github.com/lingthio/Flask-User) ⭐ 1,075 | 🐛 124 | 🌐 Python | 📅 2022-02-03 - Customizable user registration, login, and account management.
@@ -85,18 +85,18 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 * [Flask-SQLAlchemy](https://github.com/pallets-eco/flask-sqlalchemy) ⭐ 4,304 | 🐛 38 | 🌐 Python | 📅 2026-05-18 - SQLAlchemy integration for Flask.
 * [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) ⭐ 2,406 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Database migrations for Flask-SQLAlchemy via Alembic.
 * [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) ⭐ 828 | 🐛 45 | 🌐 Python | 📅 2024-01-18 - MongoEngine integration with WTForms support.
-* [Advanced Alchemy](https://github.com/litestar-org/advanced-alchemy) ⭐ 814 | 🐛 53 | 🌐 Python | 📅 2026-10-23 - SQLAlchemy companion with repositories, Alembic helpers, and a first-party Flask extension.
-* [Flask-PyMongo](https://github.com/mongodb-labs/flask-pymongo) ⭐ 721 | 🐛 12 | 🌐 Python | 📅 2026-10-23 - PyMongo integration for MongoDB.
+* [Advanced Alchemy](https://github.com/litestar-org/advanced-alchemy) ⭐ 813 | 🐛 53 | 🌐 Python | 📅 2026-10-23 - SQLAlchemy companion with repositories, Alembic helpers, and a first-party Flask extension.
+* [Flask-PyMongo](https://github.com/mongodb-labs/flask-pymongo) ⭐ 721 | 🐛 12 | 🌐 Python | 📅 2026-10-24 - PyMongo integration for MongoDB.
 * [Flask-Alembic](https://github.com/pallets-eco/flask-alembic) ⭐ 47 | 🐛 2 | 🌐 Python | 📅 2026-10-21 - Alembic migrations wired to a Flask-SQLAlchemy database.
 
 ### Developer Tools
 
-* [Sentry](https://github.com/getsentry/sentry-python) ⭐ 2,217 | 🐛 395 | 🌐 Python | 📅 2026-10-23 - Error tracking SDK with a Flask integration.
-* [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-python-contrib) ⭐ 1,119 | 🐛 725 | 🌐 Python | 📅 2026-10-23 - Tracing and metrics instrumentation, including Flask.
+* [Sentry](https://github.com/getsentry/sentry-python) ⭐ 2,218 | 🐛 396 | 🌐 Python | 📅 2026-10-23 - Error tracking SDK with a Flask integration.
+* [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-python-contrib) ⭐ 1,119 | 🐛 728 | 🌐 Python | 📅 2026-10-25 - Tracing and metrics instrumentation, including Flask.
 * [nplusone](https://github.com/jmcarp/nplusone) ⭐ 1,069 | 🐛 23 | 🌐 Python | 📅 2022-11-25 - Detects N+1 queries when using Flask-SQLAlchemy.
 * [Flask-DebugToolbar](https://github.com/pallets-eco/flask-debugtoolbar) ⭐ 978 | 🐛 39 | 🌐 JavaScript | 📅 2026-10-05 - In-browser debug toolbar, ported from Django.
 * [Mixer](https://github.com/klen/mixer) ⭐ 953 | 🐛 49 | 🌐 Python | 📅 2024-03-08 - Object factory for SQLAlchemy and Django models.
-* [Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) ⭐ 828 | 🐛 77 | 🌐 Python | 📅 2026-09-28 - Automatic performance monitoring for Flask services.
+* [Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) ⭐ 828 | 🐛 78 | 🌐 Python | 📅 2026-09-28 - Automatic performance monitoring for Flask services.
 * [Flask-Testing](https://github.com/jarus/flask-testing) ⭐ 500 | 🐛 54 | 🌐 Python | 📅 2023-08-21 - Unittest helpers for Flask applications.
 * [pytest-flask](https://github.com/pytest-dev/pytest-flask) ⭐ 499 | 🐛 14 | 🌐 Python | 📅 2026-10-22 - Pytest fixtures for Flask applications.
 * [Elastic APM](https://github.com/elastic/apm-agent-python) ⭐ 431 | 🐛 144 | 🌐 Python | 📅 2026-10-24 - Application performance monitoring for Flask.
@@ -127,17 +127,17 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 
 ### Task Queues
 
-* [Celery](https://github.com/celery/celery) ⭐ 29,051 | 🐛 735 | 🌐 Python | 📅 2026-10-24 - Distributed task queue commonly used with Flask.
+* [Celery](https://github.com/celery/celery) ⭐ 29,061 | 🐛 745 | 🌐 Python | 📅 2026-10-25 - Distributed task queue commonly used with Flask.
 * [Huey](https://github.com/coleifer/huey) ⭐ 6,055 | 🐛 0 | 🌐 Python | 📅 2026-10-24 - Small Redis-backed task queue.
-* [Dramatiq](https://github.com/Bogdanp/dramatiq) ⭐ 5,331 | 🐛 66 | 🌐 Python | 📅 2026-10-15 - Fast alternative to Celery, with [Flask-Dramatiq](https://flask-dramatiq.readthedocs.io/) available.
+* [Dramatiq](https://github.com/Bogdanp/dramatiq) ⭐ 5,331 | 🐛 69 | 🌐 Python | 📅 2026-10-15 - Fast alternative to Celery, with [Flask-Dramatiq](https://flask-dramatiq.readthedocs.io/) available.
 * [Flask-RQ](https://github.com/pallets-eco/flask-rq) ⭐ 236 | 🐛 0 | 🌐 Python | 📅 2026-10-06 - Redis Queue (RQ) integration for Flask and Quart.
 
 ### Utils
 
-* [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) ⭐ 5,506 | 🐛 0 | 🌐 Python | 📅 2026-10-08 - Socket.IO integration for Flask.
+* [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) ⭐ 5,507 | 🐛 0 | 🌐 Python | 📅 2026-10-08 - Socket.IO integration for Flask.
 * [flask-graphql](https://github.com/graphql-python/flask-graphql) ⭐ 1,340 | 🐛 41 | 🌐 Python | 📅 2023-01-03 - GraphQL support for Flask.
 * [Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) ⭐ 797 | 🐛 13 | 🌐 Python | 📅 2024-11-12 - Freezes a Flask app into a static site.
-* [Flask-GoogleMaps](https://github.com/flask-extensions/Flask-GoogleMaps) ⭐ 655 | 🐛 43 | 🌐 Python | 📅 2024-05-30 - Embed Google Maps in Flask templates.
+* [Flask-GoogleMaps](https://github.com/flask-extensions/Flask-GoogleMaps) ⭐ 654 | 🐛 43 | 🌐 Python | 📅 2024-05-30 - Embed Google Maps in Flask templates.
 * [Flask-Assets](https://github.com/miracle2k/flask-assets) ⭐ 460 | 🐛 22 | 🌐 Python | 📅 2023-12-15 - Webassets integration for bundling and minifying static files.
 * [Flask-Babel](https://github.com/python-babel/flask-babel) ⭐ 453 | 🐛 23 | 🌐 Python | 📅 2024-08-07 - Internationalization and localization via Babel.
 * [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) ⭐ 381 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Moment.js helpers for dates in Jinja templates.
@@ -180,7 +180,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 
 ### Boilerplates
 
-* [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) ⭐ 4,961 | 🐛 272 | 🌐 Python | 📅 2026-10-22 - Rapid app builder with security, auto CRUD, and charts.
+* [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) ⭐ 4,963 | 🐛 272 | 🌐 Python | 📅 2026-10-22 - Rapid app builder with security, auto CRUD, and charts.
 * [cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) ⭐ 4,725 | 🐛 24 | 🌐 Python | 📅 2025-12-02 - Cookiecutter template with Bootstrap, Webpack, and authentication.
 * [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) ⭐ 3,003 | 🐛 1 | 🌐 Python | 📅 2026-10-20 - Docker image with uWSGI, Nginx, and Flask.
 * [fbone](https://github.com/imwilsonxu/fbone) ⭐ 1,700 | 🐛 24 | 🌐 Python | 📅 2022-05-17 - Classic Flask skeleton with a structured application layout.
@@ -188,15 +188,15 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 
 ### Open Source Projects
 
-* [Apache Superset](https://github.com/apache/superset) ⭐ 75,291 | 🐛 598 | 🌐 Python | 📅 2026-10-24 - Data exploration and visualization platform.
-* [Apache Airflow](https://github.com/apache/airflow) ⭐ 47,267 | 🐛 1,931 | 🌐 Python | 📅 2026-10-24 - Platform to author, schedule, and monitor workflows.
-* [Redash](https://github.com/getredash/redash) ⭐ 28,850 | 🐛 817 | 🌐 Python | 📅 2026-10-24 - Query and visualize data from many sources.
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,075 | 🐛 263 | 🌐 Python | 📅 2026-10-22 - Email alias service that protects personal inboxes.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,890 | 🐛 479 | 🌐 Python | 📅 2026-10-24 - Whistleblower submission system for newsrooms.
+* [Apache Superset](https://github.com/apache/superset) ⭐ 75,302 | 🐛 608 | 🌐 Python | 📅 2026-10-25 - Data exploration and visualization platform.
+* [Apache Airflow](https://github.com/apache/airflow) ⭐ 47,275 | 🐛 1,936 | 🌐 Python | 📅 2026-10-25 - Platform to author, schedule, and monitor workflows.
+* [Redash](https://github.com/getredash/redash) ⭐ 28,852 | 🐛 815 | 🌐 Python | 📅 2026-10-25 - Query and visualize data from many sources.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 7,084 | 🐛 264 | 🌐 Python | 📅 2026-10-22 - Email alias service that protects personal inboxes.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,890 | 🐛 480 | 🌐 Python | 📅 2026-10-25 - Whistleblower submission system for newsrooms.
 * [Timesketch](https://github.com/google/timesketch) ⭐ 3,442 | 🐛 229 | 🌐 Python | 📅 2026-10-23 - Collaborative forensic timeline analysis.
-* [FlaskBB](https://github.com/flaskbb/flaskbb) ⭐ 2,666 | 🐛 8 | 🌐 Python | 📅 2026-10-21 - Classic forum software built with Flask.
-* [Indico](https://github.com/indico/indico) ⭐ 2,118 | 🐛 879 | 🌐 Python | 📅 2026-10-23 - Event management system developed at CERN.
-* [SkyLines](https://github.com/skylines-project/skylines) ⭐ 407 | 🐛 80 | 🌐 Python | 📅 2026-10-23 - Live tracking and flight database for gliding.
+* [FlaskBB](https://github.com/flaskbb/flaskbb) ⭐ 2,666 | 🐛 8 | 🌐 Python | 📅 2026-10-25 - Classic forum software built with Flask.
+* [Indico](https://github.com/indico/indico) ⭐ 2,119 | 🐛 881 | 🌐 Python | 📅 2026-10-25 - Event management system developed at CERN.
+* [SkyLines](https://github.com/skylines-project/skylines) ⭐ 409 | 🐛 80 | 🌐 Python | 📅 2026-10-23 - Live tracking and flight database for gliding.
 * [PythonBuddy](https://github.com/ethanchewy/PythonBuddy) ⭐ 280 | 🐛 17 | 🌐 Python | 📅 2026-02-20 - Online Python editor with live syntax checking.
 
 ## Hosting
@@ -214,4 +214,4 @@ Suggestions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first. H
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
