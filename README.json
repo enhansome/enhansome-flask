@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "pallets",
             "repo": "flask",
-            "stars": 74930,
+            "stars": 75024,
             "topics": [
               "flask",
               "jinja",
@@ -254,7 +254,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-18T04:06:02Z",
-                "open_issues": 41,
+                "open_issues": 43,
                 "owner": "apiflask",
                 "repo": "apiflask",
                 "stars": 1140,
@@ -348,7 +348,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-26T06:21:09Z",
-                "open_issues": 147,
+                "open_issues": 148,
                 "owner": "authlib",
                 "repo": "authlib",
                 "stars": 5445,
@@ -383,7 +383,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-24T21:58:12Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "maxcountryman",
                 "repo": "flask-login",
                 "stars": 3675,
@@ -465,7 +465,7 @@
                 "open_issues": 124,
                 "owner": "lingthio",
                 "repo": "Flask-User",
-                "stars": 1074,
+                "stars": 1073,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:04:52.513Z"
@@ -514,7 +514,7 @@
                 "open_issues": 48,
                 "owner": "singingwolfboy",
                 "repo": "flask-dance",
-                "stars": 1007,
+                "stars": 1005,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:04:52.513Z"
@@ -791,7 +791,7 @@
                 "open_issues": 15,
                 "owner": "mongodb-labs",
                 "repo": "flask-pymongo",
-                "stars": 721,
+                "stars": 722,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:04:52.513Z"
@@ -845,7 +845,7 @@
                 "id": 137814779,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-30T19:08:32Z",
+                "last_commit": "2026-10-31T20:40:35Z",
                 "open_issues": 402,
                 "owner": "getsentry",
                 "repo": "sentry-python",
@@ -876,10 +876,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T13:44:55Z",
-                "open_issues": 732,
+                "open_issues": 733,
                 "owner": "open-telemetry",
                 "repo": "opentelemetry-python-contrib",
-                "stars": 1122,
+                "stars": 1123,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:04:52.513Z"
@@ -900,7 +900,7 @@
                 "open_issues": 23,
                 "owner": "jmcarp",
                 "repo": "nplusone",
-                "stars": 1069,
+                "stars": 1070,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:04:52.513Z"
@@ -1007,7 +1007,7 @@
                 "open_issues": 54,
                 "owner": "jarus",
                 "repo": "flask-testing",
-                "stars": 500,
+                "stars": 499,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:04:52.513Z"
@@ -1028,7 +1028,7 @@
                 "open_issues": 14,
                 "owner": "pytest-dev",
                 "repo": "pytest-flask",
-                "stars": 499,
+                "stars": 498,
                 "topics": [
                   "flask",
                   "pytest",
@@ -1150,7 +1150,7 @@
                 "open_issues": 30,
                 "owner": "pallets-eco",
                 "repo": "flask-wtf",
-                "stars": 1511,
+                "stars": 1510,
                 "topics": [
                   "flask",
                   "flask-wtf",
@@ -1345,7 +1345,7 @@
                 "open_issues": 12,
                 "owner": "maxcountryman",
                 "repo": "flask-bcrypt",
-                "stars": 327,
+                "stars": 326,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:04:52.513Z"
@@ -1411,11 +1411,11 @@
                 "id": 184460,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T22:12:57Z",
-                "open_issues": 744,
+                "last_commit": "2026-10-31T18:25:19Z",
+                "open_issues": 741,
                 "owner": "celery",
                 "repo": "celery",
-                "stars": 29097,
+                "stars": 29101,
                 "topics": [
                   "amqp",
                   "python",
@@ -1447,11 +1447,11 @@
                 "id": 2703394,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T02:08:23Z",
+                "last_commit": "2026-10-31T21:37:20Z",
                 "open_issues": 0,
                 "owner": "coleifer",
                 "repo": "huey",
-                "stars": 6057,
+                "stars": 6058,
                 "topics": [
                   "dank",
                   "django",
@@ -1622,7 +1622,7 @@
                 "open_issues": 43,
                 "owner": "flask-extensions",
                 "repo": "Flask-GoogleMaps",
-                "stars": 654,
+                "stars": 653,
                 "topics": [
                   "flask",
                   "flask-extensions",
@@ -1653,7 +1653,7 @@
                 "open_issues": 22,
                 "owner": "miracle2k",
                 "repo": "flask-assets",
-                "stars": 460,
+                "stars": 459,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:04:52.513Z"
@@ -1695,7 +1695,7 @@
                 "open_issues": 0,
                 "owner": "miguelgrinberg",
                 "repo": "Flask-Moment",
-                "stars": 381,
+                "stars": 380,
                 "topics": [
                   "flask-moment",
                   "moment-js",
@@ -1749,7 +1749,7 @@
                 "open_issues": 0,
                 "owner": "lixxu",
                 "repo": "flask-paginate",
-                "stars": 288,
+                "stars": 287,
                 "topics": [
                   "flask",
                   "paginate"
@@ -1928,7 +1928,7 @@
                 "open_issues": 24,
                 "owner": "cookiecutter-flask",
                 "repo": "cookiecutter-flask",
-                "stars": 4723,
+                "stars": 4722,
                 "topics": [
                   "bootstrap",
                   "cookiecutter",
@@ -2015,7 +2015,7 @@
                 "open_issues": 3,
                 "owner": "JackStouffer",
                 "repo": "Flask-Foundation",
-                "stars": 1272,
+                "stars": 1271,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:04:52.513Z"
@@ -2039,11 +2039,11 @@
                 "id": 39464018,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T22:48:39Z",
-                "open_issues": 596,
+                "last_commit": "2026-10-31T22:02:01Z",
+                "open_issues": 597,
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 75374,
+                "stars": 75381,
                 "topics": [
                   "analytics",
                   "apache",
@@ -2079,11 +2079,11 @@
                 "id": 33884891,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T21:15:49Z",
-                "open_issues": 1948,
+                "last_commit": "2026-10-31T21:04:24Z",
+                "open_issues": 1952,
                 "owner": "apache",
                 "repo": "airflow",
-                "stars": 47328,
+                "stars": 47335,
                 "topics": [
                   "airflow",
                   "apache",
@@ -2125,7 +2125,7 @@
                 "open_issues": 786,
                 "owner": "getredash",
                 "repo": "redash",
-                "stars": 28853,
+                "stars": 28856,
                 "topics": [
                   "analytics",
                   "athena",
@@ -2163,10 +2163,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-30T10:08:13Z",
-                "open_issues": 265,
+                "open_issues": 266,
                 "owner": "simple-login",
                 "repo": "app",
-                "stars": 7102,
+                "stars": 7108,
                 "topics": [
                   "aliases",
                   "email",
@@ -2189,8 +2189,8 @@
                 "id": 3156820,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T17:48:38Z",
-                "open_issues": 484,
+                "last_commit": "2026-10-31T13:32:31Z",
+                "open_issues": 485,
                 "owner": "freedomofpress",
                 "repo": "securedrop",
                 "stars": 3891,
@@ -2221,7 +2221,7 @@
                 "open_issues": 228,
                 "owner": "google",
                 "repo": "timesketch",
-                "stars": 3446,
+                "stars": 3447,
                 "topics": [
                   "analysis",
                   "dfir",
@@ -2302,7 +2302,7 @@
                 "open_issues": 79,
                 "owner": "skylines-project",
                 "repo": "skylines",
-                "stars": 409,
+                "stars": 410,
                 "topics": [
                   "ember",
                   "flask",
@@ -2359,7 +2359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:55:18.667Z",
+    "last_updated": "2026-10-31T22:24:33.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Flask resources and plugins",
@@ -2371,7 +2371,7 @@
       "open_issues": 14,
       "owner": "humiaozuzu",
       "repo": "awesome-flask",
-      "stars": 12795,
+      "stars": 12796,
       "topics": [
         "awesome",
         "awesome-list",
